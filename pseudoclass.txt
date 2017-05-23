@@ -1,0 +1,30 @@
+//CREATE variabel 
+	//READ dan SAVE  variabel 
+	//IF nama kosong TAMPILKAN "Harusnya di isi nama kamu!!"
+	//ELSE "Selamat menggunakan Applikasi To Do List " dengan variable "nama"
+//CREATE sebuah variabel untuk menampilkan nama
+	//GRAB dari variabel yang sebelumnya sudah disimpan
+	//PRINT username
+//CREATE sebuah variabel untuk gambar icon yang nantinya akan dipanggil
+//TAMPILKAN data yang didapat dari sebuah identity saat di klik
+	//CREATE sebuah tag baru
+	//IF hasilnya sesuai nilai TAMPILKAN
+//FUNCTION untuk menambahkan data
+	//CREATE sebuah variabel untuk menambah data yang didapatkan dari ID
+	//CREATE item baru untuk dimasukan di list
+	//SET hasil data tersebut dengan objek
+	//CREATE tag baru dari class untuk list data
+	//SET tag tersebut menjadi button
+	//CREATE tag baru dari class untuk ceklist
+	//SET tag tersebut 
+	//SET dengan variabel gambar icon yang telah dibuat
+
+	//SET record baru ceklist dari tag button
+	//SET record data baru dengan data lama dari item list
+
+	//SET tampilan dimulai dari data yang baru diinputkan ke data lama
+
+	//PRINT hasil proses tersebut
+
+
+
